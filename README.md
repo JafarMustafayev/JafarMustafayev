@@ -6,8 +6,7 @@ Jafar is a backend developer
 
 * 🌍  I'm based in Baku
 * ✉️  You can contact me at [jafar.mustafayevv@gmail.com](mailto:jafar.mustafayevv@gmail.com)
-* 🚀  I'm currently working on [Rido](http://github.com/JafarMustafayev/RidoAPI)
-* 🧠  I'm learning C# Asp.Net Core API
+* 🧠  I'm learning Microservices
 
 <a href="https://www.github.com/JafarMustafayev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JafarMustafayev?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a>
