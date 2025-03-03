@@ -31,4 +31,4 @@ src="https://img.shields.io/github/followers/JafarMustafayev?logo=github&style=f
 
 <a href="http://www.github.com/JafarMustafayev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JafarMustafayev&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/JafarMustafayev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JafarMustafayev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/JafarMustafayev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JafarMustafayev&langs_count=5&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
